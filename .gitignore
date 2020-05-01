@@ -1,32 +1,14 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/Release/Snake Game.iobj
+/Release/Snake Game.ipdb
+/Release/Snake Game.pdb
+/x64/Release/Snake Game.iobj
+/x64/Release/Snake Game.ipdb
+/x64/Release/Snake Game.pdb
+/Snake Game.sln
+/Debug/
+/Snake Game/Debug/
+/Snake Game/Release/
+/Snake Game/x64/
+/Snake Game/Snake Game.vcxproj
+/Snake Game/Snake Game.vcxproj.filters
+/Snake Game/Snake Game.vcxproj.user
